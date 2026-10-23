@@ -1,0 +1,17 @@
+{
+  "name": "cypress-tests",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "cypress:open": "cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "cypress": "^16.2.0",
+    "jest": "^30.5.2"
+  }
+}
